@@ -17,3 +17,9 @@ int sub(int p,int q)
   
   
 }
+int mul(int p,int q)
+{
+  return p*q;
+  
+  
+}
